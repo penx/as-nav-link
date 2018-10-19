@@ -1,6 +1,6 @@
 {
   "name": "as-nav-link",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React Router HOC that mimics NavLink functionality but just passes an active prop to child component.",
   "main": "lib/as-nav-link.js",
   "module": "es/as-nav-link.js",
