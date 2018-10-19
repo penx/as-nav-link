@@ -1,7 +1,6 @@
-// TODO: extract to separate lib
 import React from 'react';
 import { Link } from 'react-router-dom';
-import NavLinkWithProp from '.';
+import NavLinkWithProp from 'nav-link-with-prop';
 
 function asNavLink({ activeProp = 'active' } = {}) {
   return T => ({ children, ...props }) => (
