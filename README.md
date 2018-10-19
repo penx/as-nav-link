@@ -1,4 +1,4 @@
-# Nav Link with Prop
+# asNavLink
 
 React Router HOC that mimics NavLink functionality but just passes an active prop to child component.
 
