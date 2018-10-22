@@ -77,6 +77,6 @@
     "react-router-dom": "4+"
   },
   "dependencies": {
-    "nav-link-with-prop": "^0.1.0"
+    "nav-link-with-prop": "^0.1.1"
   }
 }
